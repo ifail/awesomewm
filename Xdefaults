@@ -1,0 +1,61 @@
+|Xft.dpi: 112
+!Xft.antialias: true
+!Xft.hinting: true
+!Xft.rgba: rgb
+!Xft.autohint: false
+!Xft.hintstyle: hintfull
+!Xft.lcdfilter: lcddefault
+urxvt*transparent:false
+urxvt*shading:70
+XTerm*Background: black
+
+URxvt.perl-ext-common:  default,matcher
+URxvt.urlLauncher:      /usr/bin/firefox
+URxvt.matcher.button:   1 
+
+URxvt.font: xft:tamsyn:size=10
+URxvt.boldFont: xft:tamsyn:size=10
+URxvt.termName: rxvt-unicode
+URxvt.depth: 32
+URxvt.geometry: 100x30
+URxvt.scrollBar: true
+URxvt.scrollColor:#404040
+URxvt.troughColor:#1a1a1a
+URxvt.scrollstyle:xterm
+URxvt.scrollBar_right:true
+URxvt.scrollBar_floating:true
+URxvt.urgentOnBell:  true
+
+!Color1 : H=-22 S:61 V:74
+!Color2 : Hr=-2 S:43 V:88
+!! Colours
+
+*background:                		#222222
+*foreground:                		#a4a4a4
+ 
+! ---| Jellybeans |--- {{{
+! Black
+*color0:        #1a1a1a
+*color8:        #404040
+! Red
+*color1:        #d75f5f
+*color9:        #d75f5f
+! Green
+*color2:        #87af5f
+*color10:       #C7F09F
+! Yellow
+*color3:        #ffaf5f
+*color11:       #FFCC9A
+! Blue
+*color4:        #87afd7
+*color12:       #a5caef
+! Mangenta
+*color5:        #8787af
+*color13:       #A6A6DE
+! Cyan
+*color6:        #5f8787
+*color14:       #69b2b2
+! White
+*color7:        #808080
+*color15:       #d7d7d7
+ 
